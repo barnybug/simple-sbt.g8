@@ -6,7 +6,7 @@ Provides a minimal template for Scala projects using [sbt]. Uses
 
 To use, install [giter8] and then run:
 
-    $ g8 nicl/simple-sbt
+    $ g8 barnybug/simple-sbt
 
 You do not need to download this repository directly (giter8 does that
 for you).
